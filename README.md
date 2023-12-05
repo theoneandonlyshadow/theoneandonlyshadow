@@ -4,8 +4,8 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Back+end+developer;I'm+a+competitive+programmer;I'm+a+Node.js+developer;My+resume+is+down+below!;" /></a>
 </p>
-<p>I'm a backend developer, I'm a Competitive Programmer, I also like to create projects in Node.js</p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<p>I'm a backend developer, I'm a Nightowl Programmer, I also like to create projects in Node.js</p>
+<img align="right" src="https://cdn.discordapp.com/attachments/840257676524388412/1181571777479065660/MaxTac.gif?ex=65818b78&is=656f1678&hm=df92d195df5c24340c90ce29548c48db5036524fa4400b08efc096d409a146b7&">
 <ul>
   <li>👋 Hi, I’m @theoneandonlyshadow</li>
   <li>❤️ I love Creating websites and Programming in Node.js</li>
