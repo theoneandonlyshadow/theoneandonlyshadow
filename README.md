@@ -1,8 +1,8 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Madhav Nair</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/theoneandonlyshadow">Madhav Nair</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Back+end+developer;I'm+a+competitive+programmer;I'm+a+Node.js+developer;My+resume+is+down+below!;" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Back+end+developer;I'm+the+best+programmer+out+there;I'm+a+Node.js+developer;My+resume+is+down+below!;" /></a>
 </p>
 <p>I'm a backend developer, I'm a Nightowl Programmer, I also like to create projects in Node.js</p>
 <img align="right" src="https://cdn.discordapp.com/attachments/840257676524388412/1181571777479065660/MaxTac.gif?ex=65818b78&is=656f1678&hm=df92d195df5c24340c90ce29548c48db5036524fa4400b08efc096d409a146b7&">
@@ -41,18 +41,15 @@ node v20.7.0
 #### Popular Projects
 <a href="https://github.com/theoneandonlyshadow/OurSpace">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
+  <img align="center" src="https://github.com/theoneandonlyshadow/OurSpace" />
 </a>    
 <a href="https://github.com/theoneandonlyshadow/Task-Management-API">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
+  <img align="center" src="https://github.com/theoneandonlyshadow/Task-Management-API"/>
 </a>
-#### Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theoneandonlyshadow&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="theoneandonlyshadow"></a></p>
 
 #### Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/theoneandonlyshadow/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrBlueBird2&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
 </a>
 <a href="https://github.com/theoneandonlyshadow/github-readme-stats">
