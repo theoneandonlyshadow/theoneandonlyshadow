@@ -86,4 +86,6 @@ Arch Linux             6 hrs 2 mins            ███████████
 Windows 11             6 hrs 0 mins            ████████████░░░░░░░░░░░░░░   49.2%
 ```
 ------
+
+I'm also learning guitar :')
 <!-- resume here?
