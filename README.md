@@ -11,7 +11,7 @@
   <li>❤️ I love Creating websites and Programming in Node.js</li>
   <li>🌱 I’m currently learning Java, Advanced Python, Electron.js</li>
   <li>💼 I'm a backend developer working as freelancer</li>
-  <li>🧐 Portfolio Website, [visit?](https://theoneandonlyshadow.github.io/madhav.github.io/)</li>
+  <li>🧐 Portfolio Website, https://theoneandonlyshadow.github.io/madhav.github.io/</li>
 </ul>
 
 #### A little more about me
