@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/theoneandonlyshadow">Madhav Nair</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Modenine&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Back+end+developer;No sleep for the wicked;I'm+a+Node.js+developer;My+resume+is+down+below!;" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Modenine&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Back+end+developer;No+sleep+for+the=WICKED;I'm+a+Node.js+developer;My+resume+is+down+below!;" /></a>
 </p>
 <p>I'm a backend developer, I'm a Nightowl Programmer, I also like to create projects in Node.js</p>
 <img align="right" src="">
