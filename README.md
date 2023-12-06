@@ -87,5 +87,27 @@ Windows 11             6 hrs 0 mins            ███████████
 ```
 ------
 
+#### Upcoming projects
+```javascript
+const maxTac = {
+  languages: ["Javascript", "HTML", "CSS"],
+  description: ["MaxTac contains 3 sub projects (CI, AI, ML)"],
+  technologies: {
+    dataBases: ["MongoDB"],
+    ides: ["VS Code", "Replit"],
+    environment: ["Node.js"],
+  }
+  subProjects: {
+    alexandriteMagnus: ["Computational Intelligence with tiny bits of AI."],
+    scarlettVermillion: ["Artiificial Intelligence with a touch of ML"],
+    maximusShadow: ["Machine Learning Intelligence with a spark of Sentiment Analysis"],
+};
+
+console.log("Please check my repositories for further details.");
+
+node v20.7.0
+```
+
+
 I'm also learning guitar :')
 <!-- resume here?
