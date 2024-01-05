@@ -48,14 +48,6 @@ node v20.7.0
   <img align="center" src="https://github.com/theoneandonlyshadow/Task-Management-API"/>
 </a>
 
-#### Stats
-<a href="https://github.com/theoneandonlyshadow/github-readme-stats">
-  <img align="center" src="" alt="Madhav's github stats" />
-</a>
-<a href="https://github.com/theoneandonlyshadow/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="" />
-</a>
 <br />
 <br />
 
