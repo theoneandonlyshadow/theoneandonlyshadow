@@ -18,9 +18,9 @@
 ```javascript
 const madhav = {
   code: ["Javascript", "Python", "HTML", "CSS", "Java", "C"],
-  about: ["web dev", "frontend dev", "python", "backend dev"],
+  about: ["web dev", "backend dev"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap", "Tailwind"],
+      frontend: ["HTML", "CSS", "JS", "React", "Tailwind"],
       backend: ["Node.js", "MERN", "Electron", "REST & CRUD"],
       dataBases: ["MySQL", "PostgreSQL", "MongoDB"],
       ides: ["VS Code", "Replit", "Eclipse"],
