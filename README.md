@@ -8,22 +8,22 @@
 <img align="right" src="">
 <ul>
   <li>👋 Hi, I’m @theoneandonlyshadow</li>
-  <li>❤️ I love Creating websites and Programming in Node.js</li>
-  <li>🌱 I’m currently learning Java, Advanced Python, Electron.js</li>
-  <li>💼 I'm a backend developer working as freelancer</li>
+  <li>❤️ I love Creating websites and Programming with Node.js</li>
+  <li>🌱 I’m currently sharpening my MERN Stack skills</li>
+  <li>💼 I'm a backend developer</li>
   <li>🧐 Portfolio Website, https://madhavdotjs.netlify.app/</li>
 </ul>
 
 #### A little more about me
 ```javascript
 const madhav = {
-  code: ["Javascript", "Python", "HTML", "CSS", "Java", "C"],
+  code: ["Javascript", "HTML", "CSS", "C"],
   about: ["web dev", "backend dev"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "React", "Tailwind"],
+      frontend: ["HTML", "CSS", "JS", "React"],
       backend: ["Node.js", "MERN", "Electron", "REST & CRUD"],
       dataBases: ["MySQL", "PostgreSQL", "MongoDB"],
-      ides: ["VS Code", "Replit", "Eclipse"],
+      ides: ["VS Code", "vim"],
   }
 }
 
@@ -42,9 +42,9 @@ node v20.7.0
  > 
 
 #### Popular Projects
-<a href="https://github.com/theoneandonlyshadow/OurSpace">
+<a href="https://github.com/theoneandonlyshadow/MaxTac">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github.com/theoneandonlyshadow/BudSpace" />
+  <img align="center" src="https://github.com/theoneandonlyshadow/MaxTac" />
 </a>    
 <a href="https://github.com/theoneandonlyshadow/Task-Management-API">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
