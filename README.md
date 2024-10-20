@@ -41,19 +41,6 @@ node v20.7.0
 >  200+ Commits in Private Repos
  > 
 
-#### Popular Projects
-<a href="https://github.com/theoneandonlyshadow/MaxTac">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github.com/theoneandonlyshadow/MaxTac" />
-</a>    
-<a href="https://github.com/theoneandonlyshadow/Task-Management-API">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github.com/theoneandonlyshadow/Task-Management-API"/>
-</a>
-
-<br />
-<br />
-
 ------
 
 #### Upcoming projects
