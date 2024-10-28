@@ -33,13 +33,8 @@ node v20.7.0
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24975%26project%3D%26in=0)](https://codetime.dev)
 
-#### My GitHub Data :octocat:
->  153 contributions in the last year 
- > 
->  70+ Commits on Public Repos
- > 
->  200+ Commits in Private Repos
- > 
+![theoneandonlyshadow's Stats](https://github-readme-stats.vercel.app/api?username=theoneandonlyshadow&theme=react&show_icons=true&hide_border=true&count_private=true)
+![theoneandonlyshadow's Streak](https://github-readme-streak-stats.herokuapp.com/?user=theoneandonlyshadow&theme=react&hide_border=true)
 
 ------
 
