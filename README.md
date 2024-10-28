@@ -17,11 +17,11 @@
 #### A little more about me
 ```javascript
 const madhav = {
-  code: ["Javascript", "HTML", "CSS", "C"],
+  code: ["MERN", "PostgreSQL", "TypeScript"],
   about: ["web dev", "backend dev"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "React"],
-      backend: ["Node.js", "MERN", "Electron", "REST & CRUD"],
+      backend: ["Node.js", "MERN", "Electron", "REST && CRUD"],
       dataBases: ["MySQL", "PostgreSQL", "MongoDB"],
       ides: ["VS Code", "vim"],
   }
