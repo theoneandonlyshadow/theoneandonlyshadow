@@ -42,11 +42,11 @@ node v20.7.0
 #### Upcoming projects
 ```javascript
 const maxTac = {
-  languages: ["Javascript", "HTML", "CSS"],
+  languages: ["MERN", "C", "Java"],
   description: ["MaxTac contains 3 sub projects (CI, AI, ML)"],
   technologies: {
     dataBases: ["MongoDB"],
-    ides: ["VS Code", "Replit"],
+    ides: ["VS Code"],
     environment: ["Node.js"],
   },
   subProjects: {
