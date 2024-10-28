@@ -35,6 +35,7 @@ node v20.7.0
 
 ![theoneandonlyshadow's Stats](https://github-readme-stats.vercel.app/api?username=theoneandonlyshadow&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![theoneandonlyshadow's Streak](https://github-readme-streak-stats.herokuapp.com/?user=theoneandonlyshadow&theme=react&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theoneandonlyshadow&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ------
 
