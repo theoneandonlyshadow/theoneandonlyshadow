@@ -42,7 +42,7 @@ node v20.7.0
 #### Upcoming projects
 ```javascript
 const maxTac = {
-  languages: ["MERN", "C", "Java"],
+  languagesAndFrameworks: ["MERN", "Electron", "Python"],
   description: ["MaxTac contains 3 sub projects (CI, AI, ML)"],
   technologies: {
     dataBases: ["MongoDB"],
