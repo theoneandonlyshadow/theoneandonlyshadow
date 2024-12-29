@@ -5,7 +5,7 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Modenine&color=e6e6fa&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Back+end+developer;No+sleep+for+the+WICKED;I'm+a+Node.js+developer;My+resume+is+down+below!;" /></a>
 </p>
 <p>I'm a backend developer, I'm a Nightowl Programmer, I also like to create projects in Node.js</p>
-<img align="right" width="180px" src="https://cdn.discordapp.com/attachments/840257676524388412/1306641516332318730/madhav.png?ex=6740a2bd&is=673f513d&hm=0f31327d83fe57e4058f56b6a3b3abe51e2c74dc8b83290b906f7546568a35e8&">
+<img align="right" width="180px" src="https://cdn.discordapp.com/attachments/1233132445549989942/1322981858681557144/madhav.png?ex=6772da5e&is=677188de&hm=79b6d26841296fee9720ed37327c7279ec2067da7ff6fe7eac649098f4de811c&">
 <ul>
   <li>👋 Hi, I’m @theoneandonlyshadow</li>
   <li>❤️ I love Creating websites and Programming with Node.js</li>
