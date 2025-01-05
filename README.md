@@ -47,14 +47,14 @@ const maxTac = {
   languagesAndFrameworks: ["MERN", "Electron", "Python"],
   description: ["MaxTac contains 3 sub projects (CI, AI, ML)"],
   technologies: {
-    dataBases: ["MongoDB"],
+    dataBases: ["MongoDB", "PostgreSQL"],
     ides: ["VS Code"],
     environment: ["Node.js"],
   },
   subProjects: {
     alexandriteMagnus: ["Computational Intelligence with tiny bits of AI."],
     scarlettVermillion: ["Artificial Intelligence with a touch of ML"],
-    maximusShadow: ["Machine Learning Intelligence with a spark of Sentiment Analysis"],
+    maximusShadow: ["Automation Intelligence with a spark of Sentiment Analysis"],
   }
 };
 
