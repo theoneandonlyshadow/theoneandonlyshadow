@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/theoneandonlyshadow">Madhav Nair</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome, honoured guests.</h1>
 </p>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Modenine&color=00FFFF&size=25&lines=https://maxtac.tech;" /></a>
@@ -7,11 +7,11 @@
 <p>I'm a backend developer, I'm a Nightowl Programmer, I also like to create projects in Node.js</p>
 <img align="right" width="180px" src="https://i.postimg.cc/CLSG48wt/madhav.png">
 <ul>
-  <li>👋 Hi, I’m @theoneandonlyshadow</li>
-  <li>❤️ I love Creating websites and Programming with Node.js</li>
-  <li>🌱 I’m currently sharpening my MERN Stack skills</li>
-  <li>💼 I'm a backend developer</li>
-  <li>🧐 Portfolio Website, https://maxtac.tech/</li>
+  <li>Hi, I’m @theoneandonlyshadow</li>
+  <li>I love Creating websites and Programming with Node.js</li>
+  <li>I’m currently sharpening my MERN Stack skills</li>
+  <li>I'm a backend developer</li>
+  <li>Portfolio Website: https://maxtac.tech/</li>
 </ul>
 
 #### A little more about me
