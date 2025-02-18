@@ -41,7 +41,9 @@ node v20.7.0
 
 ------
 
-#### Upcoming projects
+### MaxTac
+
+I created MaxTac for the sole purpose of exploring new opportunities and building my resume. My main goal is/was always to get a job at a company. MaxTac will be either sold or demoted to "project" title if I get a job offer.
 ```javascript
 const maxTac = {
   languagesAndFrameworks: ["MERN", "Electron", "Python"],
