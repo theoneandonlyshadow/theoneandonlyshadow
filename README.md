@@ -36,7 +36,7 @@ node v20.7.0
 ![theoneandonlyshadow's Stats](https://github-readme-stats.vercel.app/api?username=theoneandonlyshadow&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![Streak Preview](https://github-readme-streak-stats.herokuapp.com/?user=theoneandonlyshadow&theme=react&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theoneandonlyshadow&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/theoneandonlyshadow.png" alt="Your Image Badge" />
 [![trophy](https://github-profile-trophy.vercel.app/?username=theoneandonlyshadow&theme=onedark)](https://github.com/theoneandonlyshadow)
 
 ------
