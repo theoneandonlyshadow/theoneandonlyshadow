@@ -37,7 +37,8 @@ node v20.7.0
 ![theoneandonlyshadow's Stats](https://github-readme-stats.vercel.app/api?username=theoneandonlyshadow&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![Streak Preview](https://github-readme-streak-stats.herokuapp.com/?user=theoneandonlyshadow&theme=react&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theoneandonlyshadow&theme=dark&show_icons=true&hide_border=true&layout=compact)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4491120" style='border:none;'></iframe>[![trophy](https://github-profile-trophy.vercel.app/?username=theoneandonlyshadow&theme=onedark)](https://github.com/theoneandonlyshadow)
+![Try Hack Me](https://tryhackme-badges.s3.amazonaws.com/theoneandonlyshadow.png)
+[![trophy](https://github-profile-trophy.vercel.app/?username=theoneandonlyshadow&theme=onedark)](https://github.com/theoneandonlyshadow)
 
 ------
 
