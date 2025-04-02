@@ -21,7 +21,8 @@ const madhav = {
   about: ["web dev", "backend dev"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "React"],
-      backend: ["Node.js", "MERN", "Electron", "REST && CRUD"],
+      backend: ["Node.js (CJS & ESM)", "MongoDB", "Express.js", "Typescript"],
+      CICD: ["Docker", "Git/GitHub"],
       dataBases: ["MySQL", "PostgreSQL", "MongoDB"],
       ides: ["VS Code", "vim"],
   }
