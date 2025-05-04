@@ -17,10 +17,11 @@
 #### A little more about me
 ```javascript
 const madhav = {
-  code: ["MERN", "PostgreSQL", "TypeScript"],
+  code: ["MERN", "Next.js" "PostgreSQL", "TypeScript"],
   about: ["web dev", "backend dev"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "React"],
+      frameworks: ["Next.js", "React.js"],
+      frontend: ["Tailwind CSS", "Once UI"]
       backend: ["Node.js (CJS & ESM)", "MongoDB", "Express.js", "Typescript"],
       CICD: ["Docker", "Git/GitHub"],
       dataBases: ["MySQL", "PostgreSQL", "MongoDB"],
@@ -37,7 +38,7 @@ node v20.7.0
 ![theoneandonlyshadow's Stats](https://github-readme-stats.vercel.app/api?username=theoneandonlyshadow&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![Streak Preview](https://github-readme-streak-stats.herokuapp.com/?user=theoneandonlyshadow&theme=react&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theoneandonlyshadow&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![Try Hack Me](https://tryhackme-badges.s3.amazonaws.com/theoneandonlyshadow.png)
+[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=theoneandonlyshadow&theme=snow&footer=madhav@maxtac.tech&show_icons=true&title=Madhav%20M%20Nair&description=Backend%20/%20Fullstack%20Developer&include_all_commits=true&show_icons=true)](https://github.com/maximjsx/fancy-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=theoneandonlyshadow&theme=onedark)](https://github.com/theoneandonlyshadow)
 
 ------
