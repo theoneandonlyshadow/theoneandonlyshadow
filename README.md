@@ -38,7 +38,7 @@ node v20.7.0
 ![theoneandonlyshadow's Stats](https://github-readme-stats.vercel.app/api?username=theoneandonlyshadow&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![Streak Preview](https://github-readme-streak-stats.herokuapp.com/?user=theoneandonlyshadow&theme=react&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theoneandonlyshadow&theme=dark&show_icons=true&hide_border=true&layout=compact)
-[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=theoneandonlyshadow&theme=snow&footer=madhav@maxtac.tech&show_icons=true&title=Madhav%20M%20Nair&description=Backend%20/%20Fullstack%20Developer&include_all_commits=true&show_icons=true)](https://github.com/maximjsx/fancy-readme-stats)
+[![My Profile Card](https://fancy-readme-stats.vercel.app/api?username=theoneandonlyshadow&theme=snow&footer=madhav@maxtac.tech&show_icons=true&title=Madhav%20M%20Nair&description=Backend%20/%20Fullstack%20Developer&include_all_commits=true&show_icons=true)](https://github.com/maximjsx/fancy-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=theoneandonlyshadow&theme=onedark)](https://github.com/theoneandonlyshadow)
 
 ------
