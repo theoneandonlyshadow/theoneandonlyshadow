@@ -48,8 +48,8 @@ node v20.7.0
 I created MaxTac for the sole purpose of exploring new opportunities and building my resume. My main goal is/was always to get a job at a company. MaxTac will be either sold or demoted to "project" title if I get a job offer.
 ```javascript
 const maxTac = {
-  languagesAndFrameworks: ["MERN", "Electron", "Python"],
-  description: ["MaxTac contains 3 sub projects (CI, AI, ML)"],
+  languagesAndFrameworks: ["MERN", "Rust", "Next.js"],
+  description: ["MaxTac is a brand. Its a passion. Its a life long commitment to the Free and Open Source community. Not a company/startup, just a dev working."],
   technologies: {
     dataBases: ["MongoDB", "PostgreSQL"],
     ides: ["VS Code"],
@@ -59,7 +59,12 @@ const maxTac = {
     alexandriteMagnus: ["Computational Intelligence with tiny bits of AI."],
     scarlettVermillion: ["Artificial Intelligence with a touch of ML"],
     maximusShadow: ["Automation Intelligence with a spark of Sentiment Analysis"],
-  }
+  },
+  fossProjects: {
+    expressRelay: ["File sharing website. Encrypt your files and send them to the world."],
+    netProbe: ["Internet connection monitor. Track your internet downtime, clear DNS cache and get notfied of offline and online connectivity"],
+    whisper: ["Facilitates N0 Data Tracking by channeling sensitive information through a reverse proxy"],
+    vermilionAI: ["Uncensored LLM trained on DeepSeek R1 with custom built dataset (MaxTac's Cronen) recognized by research companies],
 };
 
 console.log("Please check my repositories for further details.");
