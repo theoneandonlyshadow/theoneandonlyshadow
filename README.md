@@ -64,7 +64,7 @@ const maxTac = {
     expressRelay: ["File sharing website. Encrypt your files and send them to the world."],
     netProbe: ["Internet connection monitor. Track your internet downtime, clear DNS cache and get notfied of offline and online connectivity"],
     whisper: ["Facilitates N0 Data Tracking by channeling sensitive information through a reverse proxy"],
-    vermilionAI: ["Uncensored LLM trained on DeepSeek R1 with custom built dataset (MaxTac's Cronen) recognized by research companies],
+    vermilionAI: ["Uncensored LLM trained on DeepSeek R1 with custom built dataset (MaxTac's Cronen) recognized by research companies"],
 };
 
 console.log("Please check my repositories for further details.");
