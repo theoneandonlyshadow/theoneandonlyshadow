@@ -21,7 +21,7 @@ const madhav = {
   about: ["web dev", "backend dev"],
   technologies: {
       frameworks: ["Next.js", "React.js"],
-      frontend: ["Tailwind CSS", "Once UI"]
+      frontend: ["Tailwind CSS", "Once UI"],
       backend: ["Node.js (CJS & ESM)", "MongoDB", "Express.js", "Typescript"],
       CICD: ["Docker", "Git/GitHub"],
       dataBases: ["MySQL", "PostgreSQL", "MongoDB"],
