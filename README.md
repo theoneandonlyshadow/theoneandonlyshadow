@@ -4,14 +4,13 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Modenine&color=00FFFF&size=25&lines=https://maxtac.tech;" /></a>
 </p>
-<p>I'm a backend developer. I'm a Nightowl Programmer. I also like to create projects in Node.js</p>
+<p>Hi, I’m Madhav Nair</p>
 <img align="right" width="180px" src="https://i.postimg.cc/CLSG48wt/madhav.png">
 <ul>
-  <li>Hi, I’m @theoneandonlyshadow</li>
-  <li>I love Creating websites and Programming with Node.js</li>
-  <li>I’m currently sharpening my MERN stack and Next.js skills</li>
-  <li>I'm a backend developer on a good day</li>
-  <li>Portfolio Website: https://maxtac.tech/</li>
+  <li>I'm a fullstack developer.</li>
+  <li>I create websites and program with Node.js</li>
+  <li>My expertise lies in MERN stack and Next.js</li>
+  <li>Personal Website: <a>https://maxtac.tech/</a></li>
 </ul>
 
 #### A little more about me
