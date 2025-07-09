@@ -10,7 +10,7 @@
   <li>I'm a fullstack developer.</li>
   <li>I create websites and program with Node.js</li>
   <li>My expertise lies in MERN stack and Next.js</li>
-  <li>Personal Website: <a>https://maxtac.tech/</a></li>
+  <li>Personal Website: <a href="https://maxtac.tech">maxtac.tech</a></li>
 </ul>
 
 #### A little more about me
