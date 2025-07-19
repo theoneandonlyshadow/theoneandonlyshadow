@@ -33,9 +33,16 @@ node v20.7.0
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24975%26project%3D%26in=0)](https://codetime.dev)
 
+#### Personal Account:
 ![theoneandonlyshadow's Stats](https://github-readme-stats.vercel.app/api?username=theoneandonlyshadow&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![Streak Preview](https://github-readme-streak-stats.herokuapp.com/?user=theoneandonlyshadow&theme=react&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theoneandonlyshadow&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+
+#### Work Account:
+![theoneandonlyshadow's work Stats](https://github-readme-stats.vercel.app/api?username=madhav-aimver&theme=react&show_icons=true&hide_border=true&count_private=true)
+![Streak Preview](https://github-readme-streak-stats.herokuapp.com/?user=madhav-aimver&theme=react&hide_border=true)
+
 [![My Profile Card](https://fancy-readme-stats.vercel.app/api?username=theoneandonlyshadow&theme=snow&footer=madhav@maxtac.tech&show_icons=true&title=Madhav%20M%20Nair&description=Backend%20/%20Fullstack%20Developer&include_all_commits=true&show_icons=true)](https://github.com/maximjsx/fancy-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=theoneandonlyshadow&theme=onedark)](https://github.com/theoneandonlyshadow)
 
