@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Welcome, honoured guests.</h1>
+  <h1 align="center">Associate SDE at <a href='https://aimver.com'>Aimver Technologies</a>.</h1>
 </p>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Modenine&color=00FFFF&size=25&lines=https://maxtac.tech;" /></a>
@@ -7,7 +7,6 @@
 <p>Hi, I’m Madhav Nair</p>
 <img align="right" width="180px" src="https://i.postimg.cc/CLSG48wt/madhav.png">
 <ul>
-  <li>I'm a fullstack developer.</li>
   <li>I create websites and program with Node.js</li>
   <li>My expertise lies in MERN stack and Next.js</li>
   <li>Personal Website: <a href="https://maxtac.tech">maxtac.tech</a></li>
@@ -19,7 +18,7 @@ const madhav = {
   code: ["MERN", "Next.js" "PostgreSQL", "TypeScript"],
   about: ["web dev", "backend dev"],
   technologies: {
-      frameworks: ["Next.js", "React.js"],
+      frameworks: ["Next.js", "React.js", "Nuxt.js"],
       frontend: ["Tailwind CSS", "Once UI", "Shadcn", "Bootstrap"],
       backend: ["Node.js (CJS & ESM)", "MongoDB", "Express.js", "Typescript"],
       CICD: ["Docker", "Git/GitHub"],
@@ -44,7 +43,6 @@ node v20.7.0
 
 ### MaxTac
 
-I created MaxTac for the sole purpose of exploring new opportunities and building my resume. My main goal is/was always to get a job at a company. MaxTac will be either sold or demoted to "project" title if I get a job offer.
 ```javascript
 const maxTac = {
   languagesAndFrameworks: ["MERN", "Rust", "Next.js"],
