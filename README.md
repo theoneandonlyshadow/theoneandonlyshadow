@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Associate SDE at <a href='https://aimver.com'>Aimver Technologies</a>.</h1>
+  <h1 align="center">Associate Software Engineer at <a href='https://aimver.com'>Aimver Technologies</a>.</h1>
 </p>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Modenine&color=00FFFF&size=25&lines=https://maxtac.tech;" /></a>
