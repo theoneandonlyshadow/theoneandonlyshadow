@@ -2,14 +2,14 @@
   <h1 align="center">Associate Software Engineer at <a href='https://aimver.com'>Aimver Technologies</a>.</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Modenine&color=00FFFF&size=25&lines=https://maxtac.tech;" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Modenine&color=00FFFF&size=25&lines=https://madhavn.com;" /></a>
 </p>
 <p>Hi, I’m Madhav Nair</p>
 <img align="right" width="180px" src="https://i.postimg.cc/CLSG48wt/madhav.png">
 <ul>
   <li>I create websites and program with Node.js</li>
   <li>My expertise lies in MERN stack and Next.js</li>
-  <li>Personal Website: <a href="https://maxtac.tech">madhavn.com</a></li>
+  <li>Personal Website: <a href="https://madhavn.com">madhavn.com</a></li>
 </ul>
 
 #### A little more about me
