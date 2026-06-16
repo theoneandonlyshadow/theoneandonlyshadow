@@ -1,29 +1,20 @@
-<p align="center">
-  <h1 align="center">Associate Software Engineer at <a href='https://aimver.com'>Aimver Technologies</a>.</h1>
-</p>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Modenine&color=00FFFF&size=25&lines=https://madhavn.com;" /></a>
-</p>
-<p>Hi, I’m Madhav Nair</p>
-<img align="right" width="180px" src="https://i.postimg.cc/CLSG48wt/madhav.png">
-<ul>
-  <li>I create websites and program with Node.js</li>
-  <li>My expertise lies in MERN stack and Next.js</li>
-  <li>Personal Website: <a href="https://madhavn.com">madhavn.com</a></li>
-</ul>
-
-#### A little more about me
 ```javascript
-const madhav = {
-  code: ["MERN", "Next.js" "PostgreSQL", "TypeScript"],
-  about: ["web dev", "backend dev"],
-  technologies: {
-      frameworks: ["Next.js", "React.js", "Nuxt.js"],
-      frontend: ["Tailwind CSS", "Once UI", "Shadcn", "Bootstrap"],
-      backend: ["Node.js (CJS & ESM)", "MongoDB", "Express.js", "Typescript"],
-      CICD: ["Docker", "Git/GitHub"],
-      dataBases: ["MySQL", "PostgreSQL", "MongoDB"],
-      ides: ["VS Code", "vim"],
+{
+  "name": "Madhav Nair",
+  "role": "Software Engineer",
+  "company": {
+    "name": "Aimver Technologies",
+    "url": "https://aimver.com"
+  },
+  "website": "https://madhavn.com",
+  "github": "theoneandonlyshadow",
+  "bio": "Full-stack engineer focused on the web. I build fast, clean products with Next.js and Nuxt on the front, Node and PostgreSQL on the back.",
+  "stack": {
+    "frontend": ["Next.js", "Nuxt", "React"],
+    "backend": ["Node.js", "Express", "TypeScript", "Go"],
+    "data": ["PostgreSQL", "MongoDB", "MySQL"],
+    "styling": ["Tailwind CSS", "Shadcn", "Bootstrap"],
+    "tooling": ["Docker", "Git", "VS Code", "vim"]
   }
 }
 
@@ -33,16 +24,7 @@ node v20.7.0
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D24975)](https://codetime.dev)
 
-#### Personal Account:
 ![theoneandonlyshadow's Stats](https://github-readme-stats.vercel.app/api?username=theoneandonlyshadow&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![Streak Preview](https://github-readme-streak-stats.herokuapp.com/?user=theoneandonlyshadow&theme=react&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theoneandonlyshadow&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-
-#### Work Account:
-![theoneandonlyshadow's work Stats](https://github-readme-stats.vercel.app/api?username=madhav-aimver&theme=react&show_icons=true&hide_border=true&count_private=true)
-![Streak Preview](https://github-readme-streak-stats.herokuapp.com/?user=madhav-aimver&theme=react&hide_border=true)
-
-[![My Profile Card](https://fancy-readme-stats.vercel.app/api?username=theoneandonlyshadow&theme=snow&footer=madhav@maxtac.tech&show_icons=true&title=Madhav%20M%20Nair&description=Backend%20/%20Fullstack%20Developer&include_all_commits=true&show_icons=true)](https://github.com/maximjsx/fancy-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=theoneandonlyshadow&theme=onedark)](https://github.com/theoneandonlyshadow)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theoneandonlyshadow&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
